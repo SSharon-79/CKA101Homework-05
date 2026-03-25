@@ -1,0 +1,10 @@
+# ignore files
+.classpath
+.project
+
+# ignore folders
+.settings/
+bin/
+
+# mac 預設隱藏檔
+.DS_Store
